@@ -1,6 +1,6 @@
 # Sample Typescript & Jest Setup
 
-This project is a starter template for Typescript & Jest. Follow the instructions to setup in any other Typescript project
+This project is a starter template for Typescript & Jest. Follow the instructions to setup jest testing in any other Typescript project
 
 ## Initial Setup
 
